@@ -1,3 +1,5 @@
+This is my take on the Switch-Fightstick, using UART to send the commands to the ATmega32U4 from another source rather than using the pins in the board or preset commands
+
 ## Switch-Fightstick
 Proof-of-Concept Fightstick for the Nintendo Switch. Uses the LUFA library and reverse-engineering of the Pokken Tournament Pro Pad for the Wii U to enable custom fightsticks on the Switch System v3.0.0.
 
